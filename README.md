@@ -7,3 +7,4 @@ paper-read-recent
 - [A low-cost memory architecture with NAND XIP for mobile embedded systems](http://dl.acm.org/citation.cfm?id=944684) - Cited 70
 - [Turducken: Hierarchical Power Management for Mobile Devices](http://dl.acm.org/citation.cfm?id=1067198) - Cited 148
 - [Flicker: Saving Refresh-Power in Mobile Devices through Critical Data Partitioning](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.148.989&rep=rep1&type=pdf) - Cited 14 (2011)
+- [An Analysis of Power Consumption in a Smartphone](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Carroll.pdf)
